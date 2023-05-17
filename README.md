@@ -1,33 +1,34 @@
 # gabriellramos
+### 🛠 About me
+<p>
+  <em>
+   Software Engineer
+  </em>  
+  &
+  <em>
+    Quality Assurance
+  </em>  
+</p>
 
-<!-- Header -->
+### 👥 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/gabriel-ramos-nascimento"><img src="https://img.shields.io/badge/-Gabriel%20Nascimento-333333?style=white&logo=linkedin"/></a>
+<a href="mailto:gabrielramosnascimento195@gmail.com"><img src="https://img.shields.io/badge/-gabrielramosnascimento195@gmail.com-333333?style=white&logo=gmail"/></a>
+</p>
 
-[![enter image description here](https://i.imgur.com/50u342L.png)](https://i.imgur.com/50u342L.png)
+### ⚡ Technologies
 
-**Name:** Gabriel Ramos Nascimento
+These are some of the technologies and tools that I work with:
 
-**Bio:** [A short bio about yourself.]
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  
+### 📈 My Stats
+|My overall statistics|Top most languages |
+|------------------|-------------|
+|![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=gabriellramos&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellramos&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
 
-**Skills:** [A list of your skills.]
-
-**Projects:** [A list of your projects.]
-
-**Contact:** gabrielramosnascimento195@gmail.com
-
-<!-- Links -->
-
-[![enter image description here](https://i.imgur.com/727980L.png)](https://i.imgur.com/727980L.png)
-
-**GitHub:** [gabriellramos](https://github.com/gabriellramos/)
-
-**LinkedIn:** [Your LinkedIn profile URL]
-
-**Twitter:** [Your Twitter profile URL]
-
-**Personal Website:** [Your personal website URL]
-
-<!-- Footer -->
-
-[![enter image description here](https://i.imgur.com/727980L.png)](https://i.imgur.com/727980L.png)
-
+ ![Snake animation](https://github.com/jhollyferr/jhollyferr/blob/output/github-contribution-grid-snake.svg)
 **Made with ❤️ by [Gabriel Ramos Nascimento]**
