@@ -32,5 +32,5 @@ These are some of the technologies and tools that I work with:
 |------------------|-------------|
 |![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=gabriellramos&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellramos&langs_count=15&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
 
- ![Snake animation](https://github.com/jhollyferr/jhollyferr/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/gabriellramos/gabriellramos/blob/output/github-contribution-grid-snake.svg)
 **Made with ❤️ by Gabriel Ramos Nascimento**
