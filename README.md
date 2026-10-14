@@ -18,11 +18,12 @@ e de assumir a responsabilidade pelo resultado e pelo impacto no negócio.
 - **Site institucional para clínica de fisioterapia (Florianópolis)**: React 19 + TypeScript + Vite, com deploy automático na Vercel a cada push na `main`, SEO local (JSON-LD `MedicalClinic`, sitemap), i18n em pt-BR/en/es e conversões de Google Ads e GA4 nos botões de contato
 
 ### ⚡ Stack
-**Backend / Sistemas:** Rust · Node.js · Java · C
-**Front-end:** TypeScript · React
-**Dados:** integração com bancos relacionais
-**QA & Automação:** Python · Selenium
-**Ferramentas:** Git · Docker · Asterisk · SIPp
+- **Backend / Sistemas:** Rust · Node.js
+- **Front-end:** TypeScript · React
+- **Dados:** integração com bancos relacionais
+- **QA & Automação:** Python · Selenium
+- **Telefonia:** Asterisk · SIPp
+- **Ferramentas:** Git
 
 ### 👥 Contato
 <p align="left">
@@ -31,7 +32,7 @@ e de assumir a responsabilidade pelo resultado e pelo impacto no negócio.
 </p>
 
 ### 📈 Stats
-|My overall statistics|Top most languages |
+|Estatísticas gerais|Linguagens mais usadas|
 |------------------|-------------|
 |![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellramos&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellramos&langs_count=15&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
 
