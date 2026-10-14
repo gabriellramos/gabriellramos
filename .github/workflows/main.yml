@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
+      - uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
         id: snake-gif
         with:
           github_user_name: gabriellramos
